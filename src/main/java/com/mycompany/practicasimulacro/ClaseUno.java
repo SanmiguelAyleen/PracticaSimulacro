@@ -12,4 +12,8 @@ public class ClaseUno {
     public String nombre() {
         return "Pablito";
     }
+    
+    public int edad() {
+        return 7;
+    }
 }

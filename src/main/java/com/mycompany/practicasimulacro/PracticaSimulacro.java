@@ -15,5 +15,6 @@ public class PracticaSimulacro {
 
         ClaseUno uno = new ClaseUno();
         System.out.println("NOMBRE: " + uno.nombre());
+        System.out.println("EDAD: " + uno.edad());
     }
 }
